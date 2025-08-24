@@ -101,7 +101,7 @@
 ---
 
 ### 📝 MERN Stack Blog Platform  
-[![GitHub Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPO_LINK)
+[![GitHub Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/candy-arun/mern-blog.git)
 - Blog creation, editing, and commenting with JWT authentication.
 - MongoDB, Express.js, React.js, Node.js, and REST APIs.
 
