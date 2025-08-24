@@ -107,8 +107,8 @@
 
 ---
 
-### 🤝 Skill Exchange Platform  
-[![GitHub Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPO_LINK)
+### 🤝 Skillx 
+[![GitHub Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/candy-arun/skillx.git)
 - A platform for users to exchange skills (e.g., design for coding help).
 - Implemented chat system, profile matching, and session booking.
 
