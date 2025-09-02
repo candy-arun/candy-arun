@@ -65,8 +65,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=candy-arun&show_icons=true&theme=radical" height="140" />
-  <img src="https://leetcard.jacoblin.cool/candy_arun?theme=dark&font=Karma&ext=contest" height="140" />
+  <img src="https://leetcard.jacoblin.cool/candy_arun?theme=dark&font=Karma&ext=contest" height="220" />
 </p>
+
 
 ---
 
